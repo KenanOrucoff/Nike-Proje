@@ -47,6 +47,7 @@ const products = [
                 code: "green",
                 image: "./image/blazer2.png",
             },
+            
         ],
     },
     {
